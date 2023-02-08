@@ -1,3 +1,2 @@
 #!/bin/bash
-BASEDIR="/bin
-echo ""
+echo pwd
